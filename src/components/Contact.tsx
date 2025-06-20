@@ -3,7 +3,7 @@ import React from "react";
 
 const Contact = () => {
   return (
-    <section className="px-6 py-20 text-center bg-gradient-to-tr from-lime-200 via-white to-white">
+    <section className="px-6 py-20 text-center bg-[url('/Vector.png')] bg-cover bg-center bg-no-repeat">
       <h2 className="text-3xl font-bold mb-6">Interested in work together?</h2>
       <p className="mb-6 text-sm max-w-xl mx-auto text-zinc-600">
         We start every new client interaction with an in-depth discovery call
